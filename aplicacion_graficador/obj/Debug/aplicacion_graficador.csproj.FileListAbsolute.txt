@@ -1,0 +1,11 @@
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\bin\Debug\aplicacion_graficador.exe.config
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\bin\Debug\aplicacion_graficador.exe
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\bin\Debug\aplicacion_graficador.pdb
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.csproj.AssemblyReference.cache
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.Form1.resources
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.Properties.Resources.resources
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.csproj.GenerateResource.cache
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.csproj.CoreCompileInputs.cache
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.exe
+C:\Users\pato_\Documents\IPN\8vo semestre\Ingeniería de software\Visual Studio\Primer parcial\Examen\aplicacion_graficador\aplicacion_graficador\obj\Debug\aplicacion_graficador.pdb
